@@ -1,4 +1,2 @@
-remote_theme: pages-themes/minimal@v0.2.0
-
 title: Chelsea Valencia Portfolio
-description: Data Science Portfolio Draft
+theme: jekyll-theme-minimal
