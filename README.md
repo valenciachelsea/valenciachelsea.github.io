@@ -17,7 +17,7 @@ Coursework covers statistical methods for hypothesis testing, regression, and da
 B.S. Business Administration, University of Florida, Warrington College of Business  August 2013 - December 2016
 
 ## RELEVANT EXPERIENCE
-Paylocity, Remote								     October 2023 - Current
+### Paylocity, Remote								     October 2023 - Current
 
 *Paylocity is an HR & Payroll SaaS platform providing solutions to small to Enterprise size businesses.*
 
@@ -30,7 +30,7 @@ Manager, Marketing Analytics
 
 
 
-Wonolo, Remote 								            February 2021 - June 2023
+### Wonolo, Remote 								            February 2021 - June 2023
 
 *Wonolo is a marketplace company helping companies use their platform to fill open roles with temporary workers.*
 
@@ -45,7 +45,7 @@ Senior Data Analyst II
 - Established a comprehensive KPI framework, unveiling key metrics pivotal to business performance and outcomes.
 ​​- Interviewed, trained, and mentored new analysts, ensuring the success of new hires and cultivating a collaborative team environment. 
 
-Lyft, San Francisco, CA							             June 2019 – February 2021
+### Lyft, San Francisco, CA							             June 2019 – February 2021
 
 *Lyft is a marketplace company utilizing their technology platform to match riders with drivers and enabling easier transportation.*
 
@@ -55,7 +55,7 @@ Business Insights Analyst
 - Managed analytics for a pivotal product launch, informing ongoing product iterations.
 - Contributed to weekly report creation and distribution to Senior Leadership to better understand Lyft’s two-sided marketplace, highlighting supply/demand issues, and revenue performance.
 
-ETRADE, Chicago, IL	
+### ETRADE, Chicago, IL	
 
 *ETRADE is a Financial Services company providing investment products to individuals* 
 
